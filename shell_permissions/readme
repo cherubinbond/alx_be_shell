@@ -1,0 +1,13 @@
+# alx_be_shell
+
+This repository contains shell scripts for various tasks related to permissions.
+
+## Script: 0-iam_betty
+
+This script switches the current user to the user `betty`.
+
+### Usage
+
+Run the script:
+```bash
+./0-iam_betty
